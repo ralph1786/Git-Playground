@@ -7,5 +7,4 @@ let newObj = objOne;
 
 objOne["name"] = "Tracey";
 
-// console.log(newObj === objOne);
-console.log(newObj);
+// console.log(newObj);
